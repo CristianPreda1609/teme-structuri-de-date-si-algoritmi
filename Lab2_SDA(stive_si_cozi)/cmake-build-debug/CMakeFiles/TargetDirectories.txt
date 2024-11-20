@@ -1,0 +1,3 @@
+C:/Users/Cristi/CLionProjects/Lab2_SDA(stive_si_cozi)/cmake-build-debug/CMakeFiles/Lab2_SDA_stive_si_cozi_.dir
+C:/Users/Cristi/CLionProjects/Lab2_SDA(stive_si_cozi)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cristi/CLionProjects/Lab2_SDA(stive_si_cozi)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
